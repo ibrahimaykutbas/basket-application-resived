@@ -1,6 +1,7 @@
 # Basket Application
 Listing categories and products using the Northwind API with ReactJs, filtering products by selected category, adding and deleting products to cart and cart summary app.<br>
-Update: Redux Thunk Hooks
+Update: Redux Thunk Hooks <br>
+Project: https://northwind-redux-app.web.app/
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
 `git clone https://github.com/ibrahimaykutbas/basket-application-revised`<br/><br/>
