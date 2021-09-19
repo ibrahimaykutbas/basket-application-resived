@@ -1,5 +1,5 @@
 # Basket Application
-Listing categories and products using the Northwind API with ReactJs, filtering products by selected category, adding and deleting products to cart and cart summary app.<br>
+Listing categories and products using the Northwind API with ReactJs, filtering products by selected category, adding and deleting products to cart and cart summary app.<br><br>
 Update: Redux Thunk Hooks <br><br>
 Project: https://northwind-redux-app.web.app/
 ## Getting Started
