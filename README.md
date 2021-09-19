@@ -29,19 +29,6 @@ Run the following commands into the project folder to install project dependenci
 `npm init`<br/><br/>
 `npm install`<br/><br/>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.<br/>
-## Built With
-ReactJS<br/>
-Redux<br/>
-Hooks<br/>
-Thunk
-## Getting Started
-Clone this repository on your local machine.<br/><br/>
-`git clone https://github.com/ibrahimaykutbas/basket-application-revised`<br/><br/>
-`cd northwind-redux`<br/><br/>
-Run the following commands into the project folder to install project dependencies.<br/><br/>
-`npm init`<br/><br/>
-`npm install`<br/><br/>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.<br/>
 ## Available Scripts
 In the project directory, you can run: <br/><br/>
 `npm start`<br/><br/>
