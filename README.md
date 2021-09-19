@@ -1,6 +1,5 @@
 # Basket Application
-Project: https://northwind-redux-app.web.app/ <br> <br>
-Update: Redux Thunk Hooks
+Project: https://northwind-redux-app.web.app/
 ## Built With
 ReactJS<br/>
 ## Tools
