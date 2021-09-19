@@ -1,7 +1,7 @@
-# Basket Application
-Project: https://northwind-redux-app.web.app/
+# Basket Application Resived
+[Project](https://northwind-redux-app.web.app/)
 ## Built With
-ReactJS<br/>
+ReactJS
 ## Tools
 - Redux
 - Thunk
@@ -20,20 +20,20 @@ ReactJS<br/>
 - Seeing the information and quantity of the product added on the cart page.
 - Ability to add new product.
 ## API
-API used: Northwind <br/>
+API used: Northwind
 ## Getting Started
 Clone this repository on your local machine.<br/><br/>
 `git clone https://github.com/ibrahimaykutbas/basket-application-revised`<br/><br/>
-`cd northwind-redux`<br/><br/>
+`cd app`<br/><br/>
 Run the following commands into the project folder to install project dependencies.<br/><br/>
 `npm init`<br/><br/>
 `npm install`<br/><br/>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.<br/>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ## Available Scripts
 In the project directory, you can run: <br/><br/>
 `npm start`<br/><br/>
 Runs the app in the development mode.<br/><br/>
-`http://localhost:3000`<br/>
+`http://localhost:3000`
 ## Learn More
 You can learn more in the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).<br/><br/>
 To learn React, check out the [React documentation](https://reactjs.org/).
