@@ -3,13 +3,14 @@ Project: https://northwind-redux-app.web.app/
 ## Built With
 ReactJS<br/>
 ## Tools
-- Reactstrap
-- Bootstrap
-- React Router DOM
-- Alertifyjs
 - Redux
 - Thunk
 - Hooks
+- JSON Server
+- React Router DOM
+- Reactstrap
+- Bootstrap
+- Alertifyjs
 ## Features
 - List the products. Filter by selected category.
 - Add product to cart if there is a product in stock.
